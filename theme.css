@@ -56,6 +56,9 @@ to create custom gradient : https://cssgradient.io/ and copy the linear-gradient
     background color used for opacity
     default : 0, 0, 0 */
     --background-color: 0, 0, 0;
+    /*
+    blur background */
+   --backgroundBlur: 50px; /* Set to 0 to remove blur | Set to 10px for average blur */
 }
 
 /* BACKGROUND */
